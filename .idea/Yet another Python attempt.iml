@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Mail Merge Project Start" />
+      <excludeFolder url="file://$MODULE_DIR$/day-18-timmy-the-turtle" />
+      <excludeFolder url="file://$MODULE_DIR$/day-19-etch-and-scetch" />
+      <excludeFolder url="file://$MODULE_DIR$/day-19-turtle-race" />
+      <excludeFolder url="file://$MODULE_DIR$/day-19-turtle" />
+      <excludeFolder url="file://$MODULE_DIR$/day-20-snake-game" />
+      <excludeFolder url="file://$MODULE_DIR$/day-22-pond-game" />
+      <excludeFolder url="file://$MODULE_DIR$/day-23-turtle-crossing" />
+      <excludeFolder url="file://$MODULE_DIR$/day-24-file-system" />
+      <excludeFolder url="file://$MODULE_DIR$/day-25-pandas-weather" />
+      <excludeFolder url="file://$MODULE_DIR$/day-25-squirel-analysis" />
+      <excludeFolder url="file://$MODULE_DIR$/day-25-usa-states-game" />
+      <excludeFolder url="file://$MODULE_DIR$/day-26-nato-alphabet" />
+      <excludeFolder url="file://$MODULE_DIR$/day-27-tkinter-intro" />
+      <excludeFolder url="file://$MODULE_DIR$/djangoProject" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+</module>
