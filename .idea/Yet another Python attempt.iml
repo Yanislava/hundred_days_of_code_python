@@ -18,7 +18,7 @@
       <excludeFolder url="file://$MODULE_DIR$/day-27-tkinter-intro" />
       <excludeFolder url="file://$MODULE_DIR$/djangoProject" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
